@@ -17,7 +17,7 @@ namespace SchoolApi.Repositories
         Task UpdateAsync(Subject subject);
         Task DeleteAsync(int id);
     }
-}
+} 
     /// <summary>
     /// Summary description for Class1
   

@@ -80,7 +80,7 @@ namespace SchoolApi.Controllers
             _divisionRepository = divisionRepository;
         }
         // GET: api/students
-        [HttpGet]
+        [HttpGet] 
         public async Task<IActionResult> GetAll()
         {
             try

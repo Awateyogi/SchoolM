@@ -17,7 +17,7 @@ namespace SchoolApi.Repositories
         {
             _connectionString = configuration.GetConnectionString("DefaultConnection");
         }
-
+ 
         public async Task<Marks?> GetByIdAsync(int id)
         {
             using var conn = new SqlConnection(_connectionString);

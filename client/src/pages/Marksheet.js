@@ -21,7 +21,7 @@ const [divisionName, setDivisionName] = useState("");
   // 1️⃣ Load classes
   useEffect(() => {
     const fetchClasses = async () => {
-      try {
+      try { 
         const res = await api.get("/classes");
         setClasses(
           res.data.map((c) => ({ value: c.classId, label: c.name }))

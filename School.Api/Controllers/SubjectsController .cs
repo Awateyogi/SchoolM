@@ -19,7 +19,7 @@ namespace SchoolApi.Controllers
         public SubjectsController(ISubjectRepository repository)
         {
             _repository = repository;
-        }
+        } 
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)

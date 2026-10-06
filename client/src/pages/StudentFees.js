@@ -23,7 +23,7 @@ export default function StudentFees() {
         const res = await api.get("/classes");
         setClasses(
           res.data.map((c) => ({ value: c.classId, label: c.name }))
-        );
+         );
       } catch (err) {
         console.error("Failed to fetch classes:", err);
       }

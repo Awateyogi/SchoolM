@@ -22,7 +22,7 @@ export default function Attendance() {
       } catch (err) {
         console.error("Failed to load classes", err);
       }
-    };
+    }; 
     fetchClasses();
   }, []);
 

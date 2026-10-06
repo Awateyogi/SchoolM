@@ -17,7 +17,7 @@ namespace SchoolApi.Controllers
 
         [HttpGet]  // GET api/divisions
         public async Task<IActionResult> GetAll()
-        {
+        { 
             var divisions = await _repository.GetAllAsync();
             return Ok(divisions);
         }

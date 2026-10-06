@@ -15,3 +15,4 @@ namespace SchoolApi.Repositories
         Task<bool> DeleteAsync(int attendanceId);
     }
 }
+ 

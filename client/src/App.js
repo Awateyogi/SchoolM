@@ -38,7 +38,7 @@ import Marksheet from "./pages/Marksheet";
 import StudentFees from "./pages/StudentFees";
 import Attendance from "./pages/Attendance";
 import './pages/Navbar.css';
-
+ 
 
 function App() {
   return (

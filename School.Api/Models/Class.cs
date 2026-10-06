@@ -7,3 +7,4 @@ namespace SchoolApi.Models
         public string Section { get; set; } = null!;
     }
 }
+ 

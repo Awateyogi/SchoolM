@@ -16,7 +16,7 @@ namespace SchoolApi.Repositories
             _connectionString = configuration.GetConnectionString("DefaultConnection");
         }
 
-        public async Task<IEnumerable<Division>> GetAllAsync()
+         public async Task<IEnumerable<Division>> GetAllAsync()
         {
             var divisions = new List<Division>();
             using var conn = new SqlConnection(_connectionString);

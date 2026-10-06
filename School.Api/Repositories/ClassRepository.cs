@@ -15,7 +15,7 @@ namespace SchoolApi.Repositories
         {
             _connectionString = configuration.GetConnectionString("DefaultConnection");
         }
-
+ 
         public async Task<List<Class>> GetAllAsync()
         {
             var classes = new List<Class>();

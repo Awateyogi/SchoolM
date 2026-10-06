@@ -8,11 +8,11 @@ using SchoolApi.Models;
 namespace School.Api.Services
 {
     public class TokenService
-    {
+    { 
         private readonly IConfiguration _config;
         public TokenService(IConfiguration config) => _config = config;
-
-        public string GenerateToken(User user)
+ 
+         public string GenerateToken(User user)
         {
             var claims = new[] { new Claim(ClaimTypes.Name, user.UserName), new Claim(ClaimTypes.Role, user.Role) };
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]!));

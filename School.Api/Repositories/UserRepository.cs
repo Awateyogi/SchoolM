@@ -12,8 +12,8 @@ namespace SchoolApi.Repositories
         public UserRepository(IConfiguration configuration)
         {
             _connectionString = configuration.GetConnectionString("DefaultConnection");
-        }
-
+        } 
+  
         public async Task<User?> GetByUsernameAsync(string username)
         {
             using var conn = new SqlConnection(_connectionString);

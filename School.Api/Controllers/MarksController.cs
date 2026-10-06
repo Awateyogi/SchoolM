@@ -15,7 +15,7 @@ namespace SchoolApi.Controllers
         {
             _repository = repository;
         }
-
+ 
         // ✅ Get all marks for a student
         [HttpGet("by-student/{studentId}")]
         public async Task<IActionResult> GetByStudent(int studentId)

@@ -17,7 +17,7 @@ namespace SchoolApi.Controllers
         public ClassesController(IClassRepository classRepository)
         {
             _classRepository = classRepository;
-        }
+        } 
 
         [HttpGet]
         public async Task<IActionResult> GetAll()

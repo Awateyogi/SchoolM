@@ -22,7 +22,7 @@ namespace SchoolApi.Controllers
         {
             _userRepository = userRepository;
             _configuration = configuration;
-        }
+        } 
 
         // ✅ Register endpoint
         [HttpPost("register")]

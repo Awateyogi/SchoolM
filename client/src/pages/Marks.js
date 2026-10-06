@@ -21,7 +21,7 @@ export default function Marks({ studentId }) {
             test2: existing?.test2 || "",
             test3: existing?.test3 || "",
             test4: existing?.test4 || "",
-            sem1: existing?.sem1 || "",
+            sem1: existing?.sem1 || "", 
             sem2: existing?.sem2 || "",
             markId: existing?.markId || null,
           };

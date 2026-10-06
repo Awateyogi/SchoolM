@@ -15,7 +15,7 @@ public class FeeRepository : IFeeRepository
     {
         _connectionString = config.GetConnectionString("DefaultConnection");
     }
-
+ 
     public async Task<int> AddAsync(Fee fee)
     {
         using var conn = new SqlConnection(_connectionString);

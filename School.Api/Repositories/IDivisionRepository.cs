@@ -16,5 +16,5 @@ namespace SchoolApi.Repositories
         // fetch all divisions by class
         Task<IEnumerable<Division>> GetByClassIdAsync(int classId);
     }
-}
+} 
    

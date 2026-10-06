@@ -16,7 +16,7 @@ namespace SchoolApi.Repositories
      public AttendanceRepository(IConfiguration configuration)
         {
             _connectionString = configuration.GetConnectionString("DefaultConnection");
-        }
+        } 
 
         public async Task<int> AddAsync(Attendance attendance)
         {

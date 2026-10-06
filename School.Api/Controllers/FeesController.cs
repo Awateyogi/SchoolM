@@ -16,7 +16,7 @@ namespace SchoolApi.Controllers
             _feeRepo = feeRepo;
         }
 
-        
+         
         [HttpPost]
         public async Task<IActionResult> AddFee([FromBody] Fee fee)
         {

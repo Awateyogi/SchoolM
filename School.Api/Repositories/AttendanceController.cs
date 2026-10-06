@@ -15,7 +15,7 @@ namespace SchoolApi.Controllers
     public class AttendanceController : Controller
     {
         private readonly IAttendanceRepository _repository;
-
+ 
 
         public AttendanceController(IAttendanceRepository repository)
         {

@@ -23,7 +23,7 @@ export default function StudentMarks() {
       } catch (err) {
         console.error("Failed to fetch subjects:", err);
       }
-    };
+    }; 
     fetchSubjects();
   }, []);
 

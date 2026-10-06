@@ -22,7 +22,7 @@ const EditStudent = () => {
   const [error, setError] = useState("");
 
   // Fetch student by ID
-  useEffect(() => {
+  useEffect(() => { 
     // fetch student details
     const fetchStudent = async () => {
       try {
