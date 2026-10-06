@@ -1,0 +1,67 @@
+.student-container h2 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #333;
+}
+
+/* Center the main div */
+.student-container {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Table styling */
+.student-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.student-table th,
+.student-table td {
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  text-align: center;
+}
+
+/* Table header */
+.student-table th {
+  background-color: #007bff;
+  color: white;
+}
+
+/* Alternate row colors */
+.student-table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.student-table tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+/* Hover effect */
+.student-table tbody tr:hover {
+  background-color: #d1e7ff;
+}
+
+/* Buttons */
+.btn {
+  background-color: #28a745;
+  color: white;
+  padding: 5px 12px;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #218838;
+}

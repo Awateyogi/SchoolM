@@ -1,0 +1,78 @@
+.marksheet-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.marksheet-container h2 {
+   text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #333;
+}
+
+.dropdown-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 25px;
+}
+
+.dropdown-item label {
+  margin-right: 10px;
+  font-weight: 500;
+}
+
+.table-section {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ✅ Table styling */
+.marksheet-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+  /*margin-bottom: 20px; */
+  margin-top: 0 auto;
+}
+
+.marksheet-table th
+{
+    background-color: #007bff;
+  color: white;
+   
+}
+.marksheet-table th,
+.marksheet-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.marksheet-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.marksheet-table tr:hover {
+  background-color: #d1e7ff;
+}
+
+/* ✅ Right-aligned summary */
+.summary-section {
+  align-self: flex-end;
+  text-align: right;
+  width: 90%;
+  margin-top: 10px;
+  font-weight: 600;
+  color: #333;
+}

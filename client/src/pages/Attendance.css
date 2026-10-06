@@ -1,0 +1,125 @@
+.attendance-page {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.attendance-card {
+  width: 900px;
+  background: #f5f7fa;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  padding: 20px;
+}
+
+.attendance-card h2 {
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.row {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 12px;
+  align-items: flex-end;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+.col.small {
+  width: 150px;
+}
+
+.col.flex-grow {
+  flex: 1;
+}
+
+.controls .actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.controls .actions button,
+.attendance-card button {
+  background-color: #007bff;       /* consistent blue */
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 0;
+  cursor: pointer;
+  width: 160px;                    /* same width for all */
+  font-size: 15px;
+  font-weight: 500;
+ /* transition: background-color 0.2s ease, transform 0.1s ease;*/
+ transition: 0.2s;
+}
+
+.controls .actions button:hover,
+.attendance-card button:hover {
+  background-color: #125ba3;
+  transform: scale(1.03);
+}
+
+.attendance-card button[disabled] {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.records {
+  margin-top: 16px;
+}
+
+.records-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 8px;
+}
+
+.records-table th{
+    background-color: #007bff;
+  color: white;
+}
+.records-table th,
+.records-table td {
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+  font-size: 14px;
+}
+
+/* alternate row colors */
+.records-table tbody tr:nth-child(odd) {
+  background: #fff;
+}
+.records-table tbody tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+.records-table tbody tr:hover {
+  background: #d1e7ff;
+}
+
+/* small delete button */
+.btn-delete {
+  background: #e53935;
+  padding: 6px 8px;
+  border-radius: 4px;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* no records */
+.no-records {
+  text-align: center;
+  padding: 18px;
+  color: #666;
+  font-weight: 500;
+}

@@ -1,0 +1,142 @@
+/* === Main Container === */
+.fees-container {
+ /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #f9f9f9;
+  font-family: "Segoe UI", sans-serif;
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ */
+
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+/* === Heading === */
+.fees-container h2 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #333;
+}
+
+/* === Dropdown Section === */
+.dropdown-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 25px;
+}
+
+.dropdown-section label {
+  font-weight: bold;
+  margin-right: 6px;
+}
+
+/* === Fee Form Section === */
+.fees-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.fees-form h4 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.fees-form-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.fees-form input {
+  padding: 8px 12px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  width: 150px;
+}
+
+.fees-form button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.fees-form button:hover {
+  background-color: #0056b3;
+}
+/* === Completed Message === */
+.fees-complete-message {
+  color: green;
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+/* === Fee Table === */
+.fees-table {
+  width: 80%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.fees-table th,
+.fees-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.fees-table th {
+   background-color: #007bff;
+  color: white;
+}
+
+/* Alternate row colors */
+.fees-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.fees-table tbody tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+.fees-table tbody tr:hover{
+    background-color: #d1e7ff;
+}
+/* === Remaining Balance === */
+.remaining-balance {
+  margin-top: 15px;
+  font-weight: bold;
+  text-align: center;
+  color: #444;
+}
+
+.remaining-balance span {
+  font-weight: bold;
+}

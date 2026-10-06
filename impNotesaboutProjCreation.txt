@@ -1,0 +1,89 @@
+create folder name SchoolManagement where u want.
+open vs code select folder schoolmanagement 
+open new terminal use query ->
+   dotnet new webapi -n School.Api  -> it creates new   
+   webapi which name School.Api . u can change name.
+Open Visual Studio → Open a project or solution → Navigate to School.Api folder → Open
+School.Api/
+ ┣ Controllers/
+ ┃ ┗ WeatherForecastController.cs   <-- default controller
+ ┣ Properties/
+ ┣ WeatherForecast.cs
+ ┣ appsettings.json
+ ┣ Program.cs
+ ┣ School.Api.csproj
+Controllers/ → where API controllers go
+
+appsettings.json → configuration (DB, JWT will be added later)
+
+Program.cs → startup file (we’ll add JWT, DI, routing here)
+
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5000
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\awate\Yogita - Personal\SchoolManagement\School.Api\bin\Debug\net9.0
+
+add folders into School.Api project :- 
+1 Controllers/
+2 Models/
+3 Repositories/
+4 Services/
+
+Install necessary packages for Dapper, JWT, SQL Server:
+
+ dotnet add package Dapper
+ dotnet add package Microsoft.Data.SqlClient
+ dotnet add package   
+ Microsoft.AspNetCore.Authentication.JwtBearer
+ dotnet add package BCrypt.Net-Next
+
+Create Files in Folders
+1.Controllers
+AuthController.cs → login & register endpoints
+StudentsController.cs → CRUD for students
+2.Models
+User.cs → stores user properties (username, password hash, role)
+Student.cs → stores student info (name, email, class)
+3.Repositories
+UserRepository.cs → database access for Users
+StudentRepository.cs → database access for Students(calls stored procedures)
+4.Services
+TokenService.cs → JWT token generation
+
+now create code for backend and go to view-> terminal use command ->dotnet run  -to check backend api
+
+.Create React Project
+
+Open a terminal and run:
+
+npx create-react-app client
+cd client
+npm install axios react-router-dom
+
+
+Explanation:
+
+create-react-app client → creates React project in client folder
+
+axios → for HTTP requests to API
+
+react-router-dom → for routing (Login → Student List → Add/Edit)
+
+"start1": "react-scripts start",
+    "build1": "react-scripts build",
+    "test1": "react-scripts test",
+    "eject1": "react-scripts eject", */
+
+
+https://chatgpt.com/c/68c3e5b1-44c8-832c-9d82-7540669eb205
+
+
+https://localhost:5001/   = api is running
+https://localhost:5001/swagger/index.html  = swagger UI
+https://localhost:5001/api/students= JSON DATA
+https://localhost:5001/api/classes
+

@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\repositories\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:repositories\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:repositories\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\repositories\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:repositories\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\repositories\\feerepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:repositories\\feerepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\controllers\\feescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:controllers\\feescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\models\\fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:models\\fees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\repositories\\markrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:repositories\\markrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\repositories\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:repositories\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|c:\\users\\awate\\yogita - personal\\schoolmanagement\\school.api\\repositories\\ifeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF4837-2091-DB39-8B9A-1CD1A3503023}|School.Api.csproj|solutionrelative:repositories\\ifeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Repositories\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\AttendanceController.cs",
+              "RelativeToolTip": "Repositories\\AttendanceController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:06:22.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\AttendanceRepository.cs",
+              "RelativeToolTip": "Repositories\\AttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T16:59:21.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\IAttendanceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\IAttendanceRepository.cs",
+              "RelativeToolTip": "Repositories\\IAttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T16:55:31.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Models\\Attendance.cs",
+              "RelativeToolTip": "Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T16:53:43.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:41:24.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:41:17.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:05:33.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MarkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\MarkRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MarkRepository.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\MarkRepository.cs",
+              "RelativeToolTip": "Repositories\\MarkRepository.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:41:36.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fees.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Models\\Fees.cs",
+              "RelativeDocumentMoniker": "Models\\Fees.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Models\\Fees.cs",
+              "RelativeToolTip": "Models\\Fees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:55:39.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassRepository.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\ClassRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClassRepository.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\ClassRepository.cs",
+              "RelativeToolTip": "Repositories\\ClassRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:40:26.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeeRepository .cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\FeeRepository .cs",
+              "RelativeDocumentMoniker": "Repositories\\FeeRepository .cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\FeeRepository .cs",
+              "RelativeToolTip": "Repositories\\FeeRepository .cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwFQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:59:45.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeesController.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Controllers\\FeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeesController.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Controllers\\FeesController.cs",
+              "RelativeToolTip": "Controllers\\FeesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:52:51.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\SubjectRepository.cs",
+              "RelativeToolTip": "Repositories\\SubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:41:44.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\IFeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IFeeRepository.cs",
+              "ToolTip": "C:\\Users\\awate\\Yogita - Personal\\SchoolManagement\\School.Api\\Repositories\\IFeeRepository.cs",
+              "RelativeToolTip": "Repositories\\IFeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:57:21.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
