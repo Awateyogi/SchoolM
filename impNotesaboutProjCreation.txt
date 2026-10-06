@@ -79,7 +79,7 @@ react-router-dom → for routing (Login → Student List → Add/Edit)
     "eject1": "react-scripts eject", */
 
 
-https://chatgpt.com/c/68c3e5b1-44c8-832c-9d82-7540669eb205
+
 
 
 https://localhost:5001/   = api is running
